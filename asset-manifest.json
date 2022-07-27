@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movelsmart/static/css/main.86df5d59.css",
-    "main.js": "/movelsmart/static/js/main.e82fe6da.js",
+    "main.js": "/movelsmart/static/js/main.a5d5c64c.js",
     "static/media/Contato.png": "/movelsmart/static/media/Contato.864dfae8635f069d0af6.png",
     "static/media/ImageEight.png": "/movelsmart/static/media/ImageEight.8d1faf99ebb6543cf67e.png",
     "static/media/Sobre.jpg": "/movelsmart/static/media/Sobre.1fc74962dc77a45d9470.jpg",
@@ -18,10 +18,10 @@
     "static/media/svg-5.svg": "/movelsmart/static/media/svg-5.d26510534ecf582b457b74688ff8e1b6.svg",
     "index.html": "/movelsmart/index.html",
     "main.86df5d59.css.map": "/movelsmart/static/css/main.86df5d59.css.map",
-    "main.e82fe6da.js.map": "/movelsmart/static/js/main.e82fe6da.js.map"
+    "main.a5d5c64c.js.map": "/movelsmart/static/js/main.a5d5c64c.js.map"
   },
   "entrypoints": [
     "static/css/main.86df5d59.css",
-    "static/js/main.e82fe6da.js"
+    "static/js/main.a5d5c64c.js"
   ]
 }
