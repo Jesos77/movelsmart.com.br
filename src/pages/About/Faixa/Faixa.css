@@ -1,0 +1,60 @@
+.faixa-containery {
+    background-color: #CD853F;
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .social-mediay {
+    width: 100%;
+  }
+  
+  .social-media-wrapy {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0px auto 0 auto;
+
+   
+  }
+  
+  .social-iconsy {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 240px;
+  }
+
+  .social-logoy {
+    color: #fff;
+    justify-self: start;
+    text-transform: uppercase;
+	font-weight: bold;
+    margin-left: 0px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+  }
+
+  .social-second {
+    color: #fff;
+    justify-self: start;
+    text-transform: uppercase;
+    margin-left: 0px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+  }
+
+  @media screen and (max-width: 600px) {
+    .social-media-wrapy{
+      display:grid;
+    }
+  }
