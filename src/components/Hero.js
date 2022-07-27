@@ -187,7 +187,7 @@ function Hero({ slides }) {
                     <p>{slide.price}</p>
                     <Button
                       to={slide.path}
-                      primary="true"
+                      primary="true" 
                       css={`
                         max-width: 160px;
                       `}
