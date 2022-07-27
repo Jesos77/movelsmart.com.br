@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.4cd06e64.css",
-    "main.js": "/github-page/static/js/main.554c08ff.js",
-    "static/media/Contato.png": "/github-page/static/media/Contato.864dfae8635f069d0af6.png",
-    "static/media/ImageEight.png": "/github-page/static/media/ImageEight.8d1faf99ebb6543cf67e.png",
-    "static/media/Sobre.jpg": "/github-page/static/media/Sobre.1fc74962dc77a45d9470.jpg",
-    "static/media/ImageTwelve.png": "/github-page/static/media/ImageTwelve.40be3b90c4cbdf5426dd.png",
-    "static/media/ImageTwo.png": "/github-page/static/media/ImageTwo.462fafc3c96ad553032e.png",
-    "static/media/ImageThirteen.png": "/github-page/static/media/ImageThirteen.b894fa071fab4c90dd3c.png",
-    "static/media/ImageOne.jpg": "/github-page/static/media/ImageOne.afdcd41eb6a3ec7c7f16.jpg",
-    "static/media/ImageFourteen.png": "/github-page/static/media/ImageFourteen.7b10f4cfe5757cd789b8.png",
-    "static/media/ImageFive.png": "/github-page/static/media/ImageFive.bc63eef128650a24d097.png",
-    "static/media/ImageNine.png": "/github-page/static/media/ImageNine.aa7fd1f0b3afc68e7912.png",
-    "static/media/ImageSix.png": "/github-page/static/media/ImageSix.0ed3555587557f7f18f2.png",
-    "static/media/ImageSeven.png": "/github-page/static/media/ImageSeven.052a770c30027349a47a.png",
-    "static/media/ImageTen.png": "/github-page/static/media/ImageTen.690516ec2f5e1dffd4bf.png",
-    "static/media/svg-5.svg": "/github-page/static/media/svg-5.d26510534ecf582b457b74688ff8e1b6.svg",
-    "index.html": "/github-page/index.html",
-    "main.4cd06e64.css.map": "/github-page/static/css/main.4cd06e64.css.map",
-    "main.554c08ff.js.map": "/github-page/static/js/main.554c08ff.js.map"
+    "main.css": "/movelsmart/static/css/main.86df5d59.css",
+    "main.js": "/movelsmart/static/js/main.e82fe6da.js",
+    "static/media/Contato.png": "/movelsmart/static/media/Contato.864dfae8635f069d0af6.png",
+    "static/media/ImageEight.png": "/movelsmart/static/media/ImageEight.8d1faf99ebb6543cf67e.png",
+    "static/media/Sobre.jpg": "/movelsmart/static/media/Sobre.1fc74962dc77a45d9470.jpg",
+    "static/media/ImageTwelve.png": "/movelsmart/static/media/ImageTwelve.40be3b90c4cbdf5426dd.png",
+    "static/media/ImageTwo.png": "/movelsmart/static/media/ImageTwo.462fafc3c96ad553032e.png",
+    "static/media/ImageThirteen.png": "/movelsmart/static/media/ImageThirteen.b894fa071fab4c90dd3c.png",
+    "static/media/ImageOne.jpg": "/movelsmart/static/media/ImageOne.afdcd41eb6a3ec7c7f16.jpg",
+    "static/media/ImageFourteen.png": "/movelsmart/static/media/ImageFourteen.7b10f4cfe5757cd789b8.png",
+    "static/media/ImageFive.png": "/movelsmart/static/media/ImageFive.bc63eef128650a24d097.png",
+    "static/media/ImageNine.png": "/movelsmart/static/media/ImageNine.aa7fd1f0b3afc68e7912.png",
+    "static/media/ImageSix.png": "/movelsmart/static/media/ImageSix.0ed3555587557f7f18f2.png",
+    "static/media/ImageSeven.png": "/movelsmart/static/media/ImageSeven.052a770c30027349a47a.png",
+    "static/media/ImageTen.png": "/movelsmart/static/media/ImageTen.690516ec2f5e1dffd4bf.png",
+    "static/media/svg-5.svg": "/movelsmart/static/media/svg-5.d26510534ecf582b457b74688ff8e1b6.svg",
+    "index.html": "/movelsmart/index.html",
+    "main.86df5d59.css.map": "/movelsmart/static/css/main.86df5d59.css.map",
+    "main.e82fe6da.js.map": "/movelsmart/static/js/main.e82fe6da.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cd06e64.css",
-    "static/js/main.554c08ff.js"
+    "static/css/main.86df5d59.css",
+    "static/js/main.e82fe6da.js"
   ]
 }
