@@ -19,7 +19,7 @@ function Form() {
         </div>
         <div className="screen-body-item">
           <form action="https://formsubmit.co/pedrohenriquebgs@gmail.com" method="POST">
-          <input type="hidden" name="_next" value="http://localhost:3000/confirmado"/>
+          <input type="hidden" name="_next" value="/confirmado"/>
           <input type="hidden" name="_captcha" value="false"/>
           <input type="hidden" name="_subject" value="Nova mensagem do site!"/>
           <input type="hidden" name="_template" value="table"/>
