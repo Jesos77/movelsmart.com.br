@@ -18,7 +18,7 @@ function Form() {
           </div>
         </div>
         <div className="screen-body-item">
-          <form action="https://formsubmit.co/pedrohenriquebgs@gmail.com" method="POST">
+          <form action="https://formsubmit.co/movelsmartoficial@gmail.com" method="POST">
           <input type="hidden" name="_next" value="https://movelsmart.vercel.app/confirmado"/>
           <input type="hidden" name="_captcha" value="false"/>
           <input type="hidden" name="_subject" value="Nova mensagem do site!"/>
